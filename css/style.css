@@ -1,0 +1,56 @@
+h1
+{
+  font-family: 'Monoton', cursive;
+  color: #860038;
+  font-size: 400%;
+}
+
+h2 
+{
+  font-family: 'Neucha', cursive;
+  color: #860038;
+}
+
+h3
+{
+  font-family: 'Monoton', cursive;
+}
+h4 
+{
+  font-family: 'Neucha', cursive;
+}
+.red-outline
+{
+  color: gold ;
+  font-size : 200%;
+  align : center;
+}
+
+p
+{
+  font-family:'Neucha', serif;
+  font-size : 150%;
+}
+ul
+{
+  font-family: 'Neucha', serif;
+}
+
+.promise
+{
+   background-color:#860038;
+   padding : 25px;
+   border: 3px ;
+   border-radius: 25px;
+   color:#FDBB30;
+}
+.bor
+{
+  border-radius: 25px;
+}
+
+
+body {
+  background-color: #FDBB30;
+  padding : 15px;
+}
